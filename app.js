@@ -11,30 +11,30 @@ const title = document.getElementById('title');
 const songs = [
     {
     name: "anand-1",
-    title:"1 Lotus Lane",
-    artist: "the loyalist"
+    title:"1st Song",
+    artist: "Artist Name (1)"
 },
 
 {
     name: "anand-2",
-    title:" 2 sappheiros",
-    artist: "Aurora"
+    title:" 2st Song",
+    artist: "Artist Name (2)"
 },
 
 {
     name: "anand-3",
-    title:"3 Walking Firiri",
-    artist: "Gorkhali Takma"
+    title:"3st Song",
+    artist: "Artist Name (3)"
 },
 {
     name: "anand-4",
     title:"4th song",
-    artist: "Gorkhali Takma"
+    artist: "Artist Name (5)"
 },
 {
     name: "anand-5",
     title:"5th song",
-    artist: "Gorkhali Takma"
+    artist: "Artist Name (6)"
 }
 ]
 
